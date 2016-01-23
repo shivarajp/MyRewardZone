@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Qulp</string>
+    <string name="action_settings">Settings</string>
+    <string name="geofences_added">Added</string>
+    <string name="geofences_removed">Removed</string>
+    <string name="title_activity_qulp">QulpActivity</string>
+</resources>
